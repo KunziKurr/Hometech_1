@@ -1,0 +1,41 @@
+.footer{
+    height: 25vh;
+    // background-color: $color-green-light;
+    position: relative;
+    background-image: linear-gradient(to right bottom, $color-blue-dark, $color-green-dark);
+       
+    clip-path: polygon(0 100%, 100% 0, 100% 0, 100% 100%);
+
+
+    &_container{
+        font-size: 1.2rem;
+        color:$color-white;
+        text-transform: uppercase;
+        // text-align: center;
+        padding: 12rem 25% 0rem 0rem;
+        float:right;
+        font-weight:500; 
+    }
+    &_ul{
+        list-style: none;
+    }
+    &_li{
+        display: inline;
+        padding: 0rem .1rem;
+    }
+
+    &_a{
+        text-decoration: none;
+        color:$color-white;
+    }
+    &_li:last-child{
+        text-transform: lowercase;
+        
+       
+    }
+    &_img{
+        height: 2rem;
+        padding-top:.3rem;
+    }
+
+}

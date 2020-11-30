@@ -1,0 +1,21 @@
+.btn{
+    border-radius: 2rem;
+    padding: 1rem 4rem;
+    color: aqua;
+    border: none;
+    
+
+    &-green-blue{
+        background-image: linear-gradient(to right bottom, $color-green-dark, $color-blue-dark);
+        margin: 2rem 0rem 0rem 0rem;
+        cursor: pointer;
+        transition-delay: 5s;
+        transition-property: all;
+        transition-timing-function: ease-in-out;
+        font-size: 1.2rem;
+        
+    }
+    &-green-blue:hover{
+     background-image: linear-gradient(to right bottom, $color-blue-dark, $color-green-dark);
+    }
+}

@@ -1,0 +1,110 @@
+.slideshow_1{
+    height: 80vh;
+    background-image: repeating-linear-gradient(90deg, #56032a99, #0f0039), url("../images/Hometech Logo.png"); 
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.slideshow_2{
+    height: 80vh;
+    background-image: repeating-linear-gradient(90deg, #56032a99, #0f0039), url("../images/laptop.jpg"); 
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+
+}
+.slideshow_3{
+    height: 80vh;
+    background-image: repeating-linear-gradient(90deg, #56032a99, #0f0039), url("../images/branding.jpg"); 
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    }
+.slideshow{
+   
+
+
+    &_heading{
+        position: absolute;
+        top: 15rem;
+        left: 12rem;
+
+    }
+    &_h3{
+        text-transform: uppercase;
+        font-weight: 600;
+        display: inline-block;
+        color: white;
+        transition: all .2s;
+        font-size: 2rem;
+        background-image: linear-gradient(to right, #8d0748e6, #18054be6);
+        padding: 1rem 16rem 1rem 10rem;
+        transition: all .2s;
+
+}
+    &_content{
+        color: #ffff;
+        font-size: 1.4rem;
+        font-weight: 600;
+        text-align: justify;
+        margin-top: 2rem;
+        width:60vw;
+    }
+}
+
+.features{
+    margin: 3rem 10rem 4rem 10rem;
+
+    
+    &-wrapper{
+       text-align: center;
+
+    }
+
+    &_bolt{
+        background-color: #fffdfd;
+        padding: 2rem 2rem 2rem 2rem;
+        transition: all ease-in .4s;
+   
+        i{
+            font-size: 3rem;
+            text-align: center;
+        }
+    }
+    &_bolt:hover{
+        box-shadow: 0.4rem 0.6rem 1rem -0.7rem #000;
+    }
+    &_bolt_heading{
+
+    }
+    &_bolt_p{
+        text-align: center;
+
+    }
+    
+}
+
+.conversate{
+  
+    &-wrapper{
+        height: 60vh;
+        background-image: repeating-linear-gradient(160deg, rgba(0, 0, 0, 0) 18%, rgba(161, 12, 96, 0) 81%, #8d0748 10%, #18054b)
+    }
+    
+}
+
+
+.patnerships{
+    height: 30rem;
+    background-image: repeating-linear-gradient(-4deg, rgba(0, 0, 0, 0) 0%, rgba(161, 12, 96, 0) 94%, #8d0748 0%, #18054b);
+
+
+    &_partner{
+        text-align: center;
+        padding-top: 4rem;
+    }
+    &_img{
+        height: 11rem;
+    }
+
+}

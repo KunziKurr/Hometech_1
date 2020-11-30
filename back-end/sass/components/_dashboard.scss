@@ -1,0 +1,148 @@
+.dashboard{
+        background-image: repeating-linear-gradient(246deg, #14251f, #18182ff2),
+        url(../images/bg1.jpg);
+        background-size: cover;
+        position: fixed;
+        left: 0;
+        height: 100%;
+        top: 6rem;
+        min-width: 15vw;
+        max-width: 15vw;
+        color:$color-grey-light;
+        overflow: auto;
+       
+
+    &_container{
+        margin:3rem 0rem 8rem 1rem;
+    }
+
+    &_sudo{
+
+        &_ul{
+            list-style: none;
+        }
+        &_li{
+            display: block;
+        }
+        &_a{
+            text-decoration: none;
+            color: #dacdcd;
+            font-size: 1.2rem;
+            text-transform: uppercase;
+            font-weight: 700;
+
+        }
+    }
+
+    &_ul{
+        list-style: none;
+    }
+    &_li{
+        padding:0.8rem 0rem 0.8rem 1rem;
+    }
+    &_a{
+        text-decoration: none;
+            color: #dacdcd;
+            font-size: 1.2rem;
+            transition: all ease-in .2s;
+    }
+    &_a:link :visited{
+
+    }
+    &_a:hover{
+        background-image: linear-gradient(100deg, #013963, #58005a);
+        padding: 0.7rem 4rem 0.7rem 4rem;
+    }
+    &_a:active{
+        background-image: linear-gradient(100deg, #58005a, #013963);
+        padding: 0.7rem 4rem 0.7rem 4rem;
+        overflow: hidden;
+    }
+   
+
+ 
+
+
+
+}
+
+
+
+.content-box{
+
+
+
+    &-header{
+        height: 6rem;
+        background-image: repeating-linear-gradient(to right bottom, #500229, #023c45);
+        position: fixed;
+        top: 0;
+        right: 0;
+        width: 100vw;
+        left: 0;
+        
+    }
+    &-brand{
+        float: left;
+
+
+        &_img{
+            height: 6rem;
+            padding: 0rem 0rem 0rem 3rem;            
+
+        }
+        &-avatar_block{
+            float: right;
+        }
+        &-avatar{
+            background-color: #fff;
+            height: 6rem;
+            width: 7rem;
+            margin:auto 0rem 0rem auto;
+            clip-path: circle(2.5rem at 50% 50%);
+            text-align: center;
+            cursor: pointer;
+        }
+        &-avatar-info{
+            margin: -5rem auto auto -12rem;
+            height: 4rem;
+            z-index: -3;
+        }
+        &-name{
+            font-size: 1.2rem;
+            color: #f6f0f0;
+            position: absolute;
+            text-transform: uppercase;
+            font-weight: 720;
+            letter-spacing: -0.6px;
+            cursor: pointer;
+            top: 1rem;
+            right: 7rem;
+        
+        }
+        &-role{
+            font-size: 1.1rem;
+            color: #dbd4d4;
+            position: absolute;
+            // margin: -3rem 0rem 0rem -7rem;
+            letter-spacing: -0.3px;
+            font-weight: 670;
+            cursor: pointer;
+            top: 3rem;
+            right: 7rem;
+        }
+
+    }
+}
+.brand-name{
+    color: white;
+    margin: 1.6rem 0rem 0rem 3rem;
+    text-transform: uppercase;
+    font-size: 1.4rem;
+    letter-spacing: -1.2px;
+    font-weight: 590;
+    float: left;
+}
+
+
+

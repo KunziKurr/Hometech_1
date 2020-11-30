@@ -1,0 +1,17 @@
+.header{
+    height: 25vh;
+    // background-color: $color-green-light;
+    background-image: linear-gradient(to right bottom, $color-green-dark, $color-blue-dark), 
+    url('../images/bg.jpg');
+       
+    clip-path: polygon(0 0%, 100% 0, 100% 0, 0 100%);
+    
+    
+    &_heading{
+        font-size: 1.2rem;
+        color:$color-white;
+        text-transform: uppercase;
+        font-weight: 600;
+        padding: 2rem 2rem;
+    }
+}
