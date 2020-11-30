@@ -1,4 +1,4 @@
-<?php  DEFINE('ROOT_URL', 'http://localhost:80'); ?>
+<?php  DEFINE('ROOT_URL', 'https://hometech-master-bjtnt2tb0lgajo.herokuapp.com/'); ?>
 
 <!DOCTYPE html>
 <html lang="en">
