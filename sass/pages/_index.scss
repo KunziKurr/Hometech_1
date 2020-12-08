@@ -65,10 +65,16 @@
         transition: all ease-in .4s;
         height: 60vh;
    
-        i{
-            font-size: 3rem;
-            text-align: center;
-        }
+      &_heading{
+        font-size: 5rem;
+        letter-spacing: -5px;
+      }
+    }
+    &_img{
+        border-style: none;
+        height: 17rem;
+        float: left;
+        margin-left: 12rem;
     }
     /*&_bolt:hover{
         box-shadow: 0.4rem 0.6rem 1rem -0.7rem #000;

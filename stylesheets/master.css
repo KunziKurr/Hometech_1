@@ -463,9 +463,15 @@ body {
   transition: all ease-in 0.4s;
   height: 60vh;
 }
-.features_bolt i {
-  font-size: 3rem;
-  text-align: center;
+.features_bolt_heading {
+  font-size: 5rem;
+  letter-spacing: -5px;
+}
+.features_img {
+  border-style: none;
+  height: 17rem;
+  float: left;
+  margin-left: 12rem;
 }
 .features_bolt_p {
   text-align: center;
