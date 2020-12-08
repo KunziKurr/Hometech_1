@@ -79,7 +79,7 @@
     <div class="features-wrapper">
 
         <div class="features_bolt">
-          <i class="icon-basic-world "></i>  
+        <img class="features_img" src="<?php echo ROOT_URL;?>/images/assets/_connections.svg">
           <h5 class="features_bolt_heading">Internet Services</h5>
           <p class="features_bolt_p">
           Lorem ipsum dolor sit amet consectetur adipisicing elit. 
@@ -91,7 +91,7 @@
         </div>
 
          <div class="features_bolt">
-              <i class="icon-basic-world "></i>  
+              <img class="features_img" src="<?php echo ROOT_URL;?>/images/assets/_connections.svg">
               <h5 class="features_bolt_heading">Internet Services</h5>
               <p class="features_bolt_p">
               Lorem ipsum dolor sit amet consectetur adipisicing elit. 
@@ -103,7 +103,7 @@
         </div>
 
          <div class="features_bolt">
-          <i class="icon-basic-world "></i>  
+         <img class="features_img" src="<?php echo ROOT_URL;?>/images/assets/_connections.svg"> 
           <h5 class="features_bolt_heading">Internet Services</h5>
           <p class="features_bolt_p">
           Lorem ipsum dolor sit amet consectetur adipisicing elit. 
@@ -115,7 +115,7 @@
         </div>
 
          <div class="features_bolt">
-          <i class="icon-basic-world "></i>  
+          <img class="features_img" src="<?php echo ROOT_URL;?>/images/assets/_connections.svg"> 
           <h5 class="features_bolt_heading">Internet Services</h5>
           <p class="features_bolt_p">
           Lorem ipsum dolor sit amet consectetur adipisicing elit. 
@@ -127,7 +127,7 @@
         </div>
 
         <div class="features_bolt">
-          <i class="icon-basic-world "></i>  
+          <img class="features_img" src="<?php echo ROOT_URL;?>/images/assets/_connections.svg">
           <h5 class="features_bolt_heading">Internet Services</h5>
           <p class="features_bolt_p">
           Lorem ipsum dolor sit amet consectetur adipisicing elit. 
@@ -139,7 +139,7 @@
         </div>
 
          <div class="features_bolt">
-          <i class="icon-basic-world "></i>  
+          <img class="features_img" src="<?php echo ROOT_URL;?>/images/assets/_connections.svg">
           <h5 class="features_bolt_heading">Internet Services</h5>
           <p class="features_bolt_p">
           Lorem ipsum dolor sit amet consectetur adipisicing elit. 
@@ -151,7 +151,7 @@
         </div>
 
          <div class="features_bolt">
-          <i class="icon-basic-world "></i>  
+          <img class="features_img" src="<?php echo ROOT_URL;?>/images/assets/_connections.svg"> 
           <h5 class="features_bolt_heading">Internet Services</h5>
           <p class="features_bolt_p">
           Lorem ipsum dolor sit amet consectetur adipisicing elit. 
@@ -163,7 +163,7 @@
         </div>
 
          <div class="features_bolt">
-          <i class="icon-basic-world "></i>  
+          <img class="features_img" src="<?php echo ROOT_URL;?>/images/assets/_connections.svg">  
           <h5 class="features_bolt_heading">Internet Services</h5>
           <p class="features_bolt_p">
           Lorem ipsum dolor sit amet consectetur adipisicing elit. 

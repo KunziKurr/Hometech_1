@@ -448,6 +448,9 @@ body {
 
 .features {
   margin: unset;
+  /*&_bolt:hover{
+      box-shadow: 0.4rem 0.6rem 1rem -0.7rem #000;
+  }*/
 }
 .features-wrapper {
   text-align: center;
@@ -458,14 +461,11 @@ body {
   -webkit-transition: all ease-in 0.4s;
   -o-transition: all ease-in 0.4s;
   transition: all ease-in 0.4s;
+  height: 60vh;
 }
 .features_bolt i {
   font-size: 3rem;
   text-align: center;
-}
-.features_bolt:hover {
-  -webkit-box-shadow: 0.4rem 0.6rem 1rem -0.7rem #000;
-          box-shadow: 0.4rem 0.6rem 1rem -0.7rem #000;
 }
 .features_bolt_p {
   text-align: center;

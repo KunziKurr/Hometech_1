@@ -63,15 +63,16 @@
         background-color: #fffdfd;
         padding: 2rem 2rem 2rem 2rem;
         transition: all ease-in .4s;
+        height: 60vh;
    
         i{
             font-size: 3rem;
             text-align: center;
         }
     }
-    &_bolt:hover{
+    /*&_bolt:hover{
         box-shadow: 0.4rem 0.6rem 1rem -0.7rem #000;
-    }
+    }*/
     &_bolt_heading{
 
     }
