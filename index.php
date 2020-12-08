@@ -76,7 +76,7 @@
 
 <div class="features ">
     <h2 class="features-heading-sudo">features and Informatics </h2>
-    <div class="features-wrapper grid">
+    <div class="features-wrapper">
 
         <div class="features_bolt">
           <i class="icon-basic-world "></i>  
