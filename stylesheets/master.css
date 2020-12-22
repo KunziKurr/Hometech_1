@@ -54,7 +54,7 @@ body {
   font-size: 1.2rem;
   color: #00115d;
   position: absolute;
-  left: 23rem;
+  left: 20.8rem;
   top: 3.5rem;
   letter-spacing: -0.1rem;
   text-transform: lowercase;
@@ -362,7 +362,7 @@ body {
 .header_branding_logo {
   height: 6.7rem;
   float: left;
-  margin-left: 2rem;
+  margin-left: 0rem;
 }
 .header_nav {
   float: right;

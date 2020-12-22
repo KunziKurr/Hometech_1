@@ -15,9 +15,9 @@
         <div class="slideshow_1">
            <!-- <img src="<?php echo ROOT_URL; ?>/images/Lexus.png" alt="" class="slideshow_img"> -->
               <div class="slideshow_heading">
-                        <h3 class="slideshow_h3">Hometech Contractros Limited</h3>
+                        <h3 class="slideshow_h3">Fidelity Networks Limited</h3>
                         <p class="slideshow_content"> 
-                            Welcome to Hometech Contractors Limited. We provide with all the most diverse Technological solutions 
+                            Welcome to Fidelity Networks Limited. We provide with all the most diverse Technological solutions 
                             that you need in all dynamics of business. We pride ourself in the quality, 
                             strategic and timely services we provide to our clients. With your patnership 
                             and reach out, we can build our  success story living through generations to come.
@@ -36,8 +36,8 @@
             <div class="slideshow_heading">
                   <h3 class="slideshow_h3">Internet Services <i class="icon-basic-helm"></i> </h3>
                   <p class="slideshow_content"> 
-                    As one of our services, Hometech Networks has the fastest internet speeds with little to no 
-                    downtime at all. Hometech Networks goes beyond any obstacle no matter the region you will be able
+                    As one of our services, Fidelity  Networks has the fastest internet speeds with little to no 
+                    downtime at all. Fidelity  Networks goes beyond any obstacle no matter the region you will be able
                     to get internet connection in no time. Cheap, Fast and Reliable are our key qualities in our network coverage.
                   </p>
                   <a href="" class="btn btn-maroon_blue">Read More</a>
@@ -53,7 +53,7 @@
                   <h3 class="slideshow_h3">We make brands Shine</h3>
                   <p class="slideshow_content"> 
                     Are you a new into the business industry? Are you trying to rebrand ?, Do you need a fresh start, 
-                    a better question is ...!, How bright do you want to shine...? Here at Hometech Contractors, we answer all these questions quite well,
+                    a better question is ...!, How bright do you want to shine...? Here at Fidelity Networks, we answer all these questions quite well,
                     We make brands shine through branding with the best design patterns essential for success, Logos, Business Cards, Email Templates, Web Design name 
                     it and we have you covered. Lets Shine together.
                   </p>
@@ -207,30 +207,30 @@
 
 
 <div class="patnerships ">
-<h2 class="features-heading-sudo">Hometech Patnerships</h2>
+<h2 class="features-heading-sudo">Fidelity Networks Patnerships</h2>
   <div class="patnerships_wrapper grid-5">
 
   <div class="patnerships_partner">
-      <img src="<?php echo ROOT_URL; ?>/images/Hometech Logo.png " alt="Hometech" class="patnerships_img">
-      <h6> Hometech Contractros Ltd</h6>
+      <img src="<?php echo ROOT_URL; ?>/images/Fidelity Networks Logo.png " alt="Fidelity Networks" class="patnerships_img">
+      <h6> Fidelity Networks Ltd</h6>
   </div>
 
   <div class="patnerships_partner">
-      <img src="<?php echo ROOT_URL; ?>/images/Hometech Logo.png " alt="Hometech" class="patnerships_img">
-      <h6> Hometech Contractros Ltd</h6>
+      <img src="<?php echo ROOT_URL; ?>/images/Fidelity Networks Logo.png " alt="Fidelity Networks" class="patnerships_img">
+      <h6> Fidelity Networks Ltd</h6>
   </div>
 
   <div class="patnerships_partner">
-      <img src="<?php echo ROOT_URL; ?>/images/Hometech Logo.png " alt="Hometech" class="patnerships_img">
-      <h6> Hometech Contractros Ltd</h6>
+      <img src="<?php echo ROOT_URL; ?>/images/Fidelity Networks Logo.png " alt="Fidelity Networks" class="patnerships_img">
+      <h6> Fidelity Networks Ltd</h6>
   </div>
   <div class="patnerships_partner">
-      <img src="<?php echo ROOT_URL; ?>/images/Hometech Logo.png " alt="Hometech" class="patnerships_img">
-      <h6>Hometech Contractros Ltd</h6>
+      <img src="<?php echo ROOT_URL; ?>/images/Fidelity Networks Logo.png " alt="Fidelity Networks" class="patnerships_img">
+      <h6>Fidelity Networks Ltd</h6>
   </div>
   <div class="patnerships_partner">
-      <img src="<?php echo ROOT_URL; ?>/images/Hometech Logo.png " alt="Hometech" class="patnerships_img">
-      <h6>Hometech Contractros Ltd</h6>
+      <img src="<?php echo ROOT_URL; ?>/images/Fidelity Networks Logo.png " alt="Fidelity Networks" class="patnerships_img">
+      <h6>Fidelity Networks Ltd</h6>
   </div>
   
 

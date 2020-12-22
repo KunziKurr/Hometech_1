@@ -1,15 +1,17 @@
-<?php  DEFINE('ROOT_URL', 'https://hometech-develop-7lweadf5yyyrw.herokuapp.com/'); ?>
+<!-- <?php  #DEFINE('ROOT_URL', 'https://hometech-develop-7lweadf5yyyrw.herokuapp.com/'); ?> -->
 
+<?php  DEFINE('ROOT_URL', ''); ?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0"><meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
     <link rel="stylesheet" href="<?php echo ROOT_URL; ?>/fonts/styles.css">
     <link rel="stylesheet" href="<?php echo ROOT_URL; ?>/stylesheets/master.css">
-    <title>Hometech Contractors Ltd</title>
+    <title> Fidelity Networks  </title>
     <link rel="shortcut icon" href="<?php echo ROOT_URL; ?>/images/Hometech Logo.png" type="image/x-icon">
 </head>
 <body>
@@ -17,7 +19,7 @@
     <div class="header_branding">
         <img src="<?php echo ROOT_URL; ?>/images/Hometech Logo.png" alt="Hometech Contractors" class="header_branding_logo" srcset="">
         <h1 class="header_heading-brand header_position">
-            Hometech Contractors
+            Fidelity Networks
         </h1>
             <h6 class="header_heading-sub">
                 Quality Service
